@@ -48,7 +48,8 @@ I’m passionate about building optimized, high-performance digital systems and 
 ### 🌐 Connect With Me  
 
 - 📧 **Email:** [dtejaswarreddy10@gmail.com](mailto:dtejaswarreddy10@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/tejeswara-reddy-dudyala-74784821b](https://linkedin.com/in/tejeswara-reddy-dudyala-74784821b)  
+- 💼 **LinkedIn:** [linkedin.com/in/tejeswara-reddy-dudyala-74784821b](https://linkedin.com/in/tejeswara-reddy-dudyala-74784821b)
+- 🌐 **Portfolio:** [dtejaswarreddy10.github.io/tejeswarareddydudyala](https://dtejaswarreddy10.github.io/tejeswarareddydudyala)
 - 📍 **Location:** Bangalore, India  
 
 ---
